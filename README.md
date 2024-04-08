@@ -9,3 +9,5 @@ This app is to demonstrate the following:
 * Google Room Database
 * Network using Retrofit, OkHttp Logging Interceptor, Kotlin Coroutine
 * JUnit Tests using Mockito
+  
+![file](https://github.com/arirang372/NycHighSchoolApp/assets/30167760/298cae52-d557-4bf3-9b6e-e58fd655a501)
