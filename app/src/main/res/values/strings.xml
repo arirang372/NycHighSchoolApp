@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NYC High Schools</string>
+    <string name="back">Back</string>
+    <string name="extra_curricular_activities">Extra curricular activities</string>
+
+    <string name="loading">Loading</string>
+    <string name="math">- Math: %s</string>
+    <string name="number_of_test_taker">- No. test taker: %s</string>
+    <string name="reading">- Reading: %s</string>
+
+    <string name="sat_score_details">SAT Score Details</string>
+    <string name="sat_average_score">SAT average scores</string>
+    <string name="school_details">School Details</string>
+    <string name="school_list">School List</string>
+    <string name="school_list_title">%s - %s Schools</string>
+    <string name="see_more">SEE MORE</string>
+    <string name="see_less">SEE LESS</string>
+
+    <string name="writing">- cWriting: %s</string>
+</resources>
